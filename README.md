@@ -11,4 +11,4 @@ All available CLI tools can be found by calling the `-h` flag.
 Examples (GIF & VID processing in progress):
 
 ![Image example](assets/img1.jpg)
-<video src="assets/vid1.mp4" controls width="600"></video>
+![GIF example](assets/gif1.gif)
